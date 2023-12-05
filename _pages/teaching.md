@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching Expereiences
 nav: true
-nav_order: 5
+nav_order: 2
 
 # profiles:
 #   # if you want to include more than one profile, just replicate the following block
