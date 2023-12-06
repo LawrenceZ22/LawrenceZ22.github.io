@@ -17,4 +17,7 @@ selected_papers: false  # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a 4th year BSc Computer Science student at the Univerisity of Edinburgh. Currently, an undergraduate student at <a href="https://maps-lab.github.io/" target="_blank">MAPS Lab</a>, supervised by <a href="https://christopherlu.github.io/" target="_blank">Dr. Chris Xiaoxuan Lu</a>. My research interests lie in egocentric computer vision and spatial human-machine interfaces.
+I am a 4th year BSc Computer Science student at the Univerisity of Edinburgh. Currently, an undergraduate student at <a href="https://maps-lab.github.io/" target="_blank">MAPS Lab</a>, supervised by <a href="https://christopherlu.github.io/" target="_blank">Dr. Chris Xiaoxuan Lu</a>. My research interests lie in egocentric computer vision and 3D spatial human-machine interfaces. I am currently working on constructing an egocentric thermal hand pose dataset alongside a temporal transformer-based hand pose estimator. 
+
+Before coming to Edinburgh, I attended A-levels at <a href="https://stamfordschools.org.uk/ " target="_blank">Stamford Endowed Schools</a> in Lincolnshire, England, from 2018 to 2020. Graduated with a self-studied A-level computer science and HeadMaster's Commendation (awarded to 5 students annually in sixth form)
+
