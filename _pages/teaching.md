@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /test/
-title: test
+permalink: /teaching/
+title: Teaching
 description:
 nav: true
 nav_order: 2
@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: contact.md
+    content: teaching_experience.md
     image_circular: true # crops the image to make it circular
     more_info: >
   # - align: left
