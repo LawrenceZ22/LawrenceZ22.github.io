@@ -1,5 +1,33 @@
 ---
 layout: profiles
+permalink: /test/
+title: test
+description:
+nav: true
+nav_order: 2
+
+profiles:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
+  - align: right
+    image: prof_pic.jpg
+    content: contact.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+  # - align: left
+  #   image: prof_pic.jpg
+  #   content: about_einstein.md
+  #   image_circular: false # crops the image to make it circular
+  #   more_info: >
+  #     <p>G.1</p>
+  #     <p>123 your address street</p>
+  #     <p>Your City, State 12345</p>
+---
+
+<!-- ---
+
+
+layout: profiles
 permalink: /teaching/
 title: teaching
 description: Teaching Expereiences
@@ -26,4 +54,4 @@ Demonstrator - <a href="https://opencourse.inf.ed.ac.uk/mob" target="_blank">Int
   <li>Hosted Lab and Q&A sessions</li>
 </ul>
 
-Instructor - Robotics Club, Stamford Endowed Schools 12.2018 - 01.2020
+Instructor - Robotics Club, Stamford Endowed Schools 12.2018 - 01.2020 -->
