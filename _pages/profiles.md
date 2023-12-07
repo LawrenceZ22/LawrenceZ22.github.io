@@ -1,10 +1,10 @@
 ---
 layout: profiles
 permalink: /people/
-title: contact
-description: members of the lab or group
+title: Contact
+description:
 nav: true
-nav_order: 4
+nav_order: 3
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -13,10 +13,6 @@ profiles:
     image: prof_pic.jpg
     content: contact.md
     image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>G.17 Informatics forum</p>
-      <p></p>
-      <p>Your City, State 12345</p>
   # - align: left
   #   image: prof_pic.jpg
   #   content: about_einstein.md
