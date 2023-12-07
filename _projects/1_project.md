@@ -16,9 +16,9 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    title: Symultanous Thermal-RGB-IR camera calibration
+    description: An innovative modular chessboard for stereo camera calibration to be performed between thermal cameras and RGB/IR cameras.
+    img: /assets/img/thermal_cali_board.png
     ---
 
 <div class="row">
