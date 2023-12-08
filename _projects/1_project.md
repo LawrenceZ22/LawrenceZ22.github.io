@@ -26,5 +26,6 @@ Credit: The idea of having the baseboard as a whole came from Shikai Geng, Schoo
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/thermal_calib_ir.png" title="ir" class="img-fluid rounded z-depth-1" %}
     </div>
-    <p>Chessboard images captured by thermal (left), RGB (middle), and IR (right) cameras at the same time and chessboard grids detected by MATLAB.
 </div>
+
+<p>Chessboard images captured by thermal (left), RGB (middle), and IR (right) cameras at the same time and chessboard grids detected by MATLAB.<p>
