@@ -11,6 +11,8 @@ November, 2023
 
 A modular calibration chessboard, designed in the style of OpenCV, is used for stereo calibration among thermal, RGB, and IR cameras. It consists of a black baseboard filled with white cubes that can be individually cooled or heated. This feature enables thermal cameras to capture grid images, which display identical chessboard corners as those in RGB and SWIR (Short Wave Infrared) images. The chessboard's grid patterns are detectable by both OpenCV and MATLAB. A significant advantage of this design is the absence of depth differences between the black and white squares in the images, contrasting with traditional designs that utilized hollowed boards.
 
+Credit: The idea of having the baseboard as a whole came from Shikai Geng, School of Informatics, The Univerisity of Edinburgh.
+
 <b>Further details and the model file of this board will be included in our ECCV 2024 submission for the thermal hand pose dataset.<b>
 
 
@@ -25,8 +27,4 @@ A modular calibration chessboard, designed in the style of OpenCV, is used for s
         {% include figure.html path="assets/img/thermal_calib_ir.png" title="ir" class="img-fluid rounded z-depth-1" %}
     </div>
     <p>Chessboard images captured by thermal (left), RGB (middle), and IR (right) cameras at the same time and chessboard grids detected by MATLAB.<p>
-</div>
-
-<div class="caption">
-    Credit: The idea of having the baseboard as a whole came from Shikai Geng.
 </div>
