@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: VisionED
+description: A wearable visual sign recogniser for visually impaired users. 
 img: assets/img/3.jpg
 importance: 2
 category: Coursework and Personal Research

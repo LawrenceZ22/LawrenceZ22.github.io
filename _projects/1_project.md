@@ -4,7 +4,7 @@ title: Thermal Calib
 description: A modular chessboard for stereo camera calibration to be performed between thermal cameras and RGB/IR cameras.
 img: assets/img/thermal_cali_board.png
 importance: 1
-category: work
+category: MAPS Lab
 related_publications: 
 ---
 November, 2023
