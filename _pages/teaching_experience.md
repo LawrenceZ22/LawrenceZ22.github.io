@@ -1,4 +1,4 @@
-Demonstrator - <a href="https://opencourse.inf.ed.ac.uk/mob" target="_blank">Introduction to Mobile Robotics</a> , School of Informatics, The Univerisity of Edinburgh 09.2023 - 12.2023
+Demonstrator - <a href="https://opencourse.inf.ed.ac.uk/mob" target="_blank">Introduction to Mobile Robotics</a>, School of Informatics, The Univerisity of Edinburgh 09.2023 - 12.2023
 
 <ul>
   <li>Delivered a lecture on robot control system</li>
