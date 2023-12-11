@@ -1,7 +1,7 @@
 ---
 layout: page
-title: distance-transform-based arrow direction estimation
-description: a project that redirects to another website
+title: Distance-transform-based Arrow Direction Estimation
+description: An innovative method for arrow direction estimation deployed in VisionED.
 img: assets/img/dt_arrow.png
 importance: 3
 category: Coursework and Personal Research
