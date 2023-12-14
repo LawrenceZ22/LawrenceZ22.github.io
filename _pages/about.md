@@ -19,4 +19,4 @@ social: false  # includes social icons at the bottom of the page
 
 I am a 4th year BSc Computer Science student at the Univerisity of Edinburgh. Currently, an undergraduate student at <a href="https://maps-lab.github.io/" target="_blank">MAPS Lab</a>, supervised by <a href="https://christopherlu.github.io/" target="_blank">Dr. Chris Lu</a>. My research interests lie in egocentric computer vision, fine-grained 3D spatial interfaces and human-robot/computer interaction. I am currently working on developing a temporal transformer-based hand pose estimator with an egocentric thermal hand pose dataset.
 
-Before coming to Edinburgh, I attended Sixth Form at <a href="https://stamfordschools.org.uk" target="_blank">Stamford Schools</a> in Lincolnshire, England, from 2018 to 2020. Graduated with a HeadMaster's Commendation.
+Before coming to Edinburgh, I attended Sixth Form at <a href="https://stamfordschools.org.uk" target="_blank">Stamford Schools</a> in Lincolnshire, England, from 2018 to 2020. Graduated with a Headmaster's Commendation (awared to top 5/185 students).
