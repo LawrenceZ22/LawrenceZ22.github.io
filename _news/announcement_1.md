@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-12-15 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+We have started the data collection for egocentric thermal hand pose estimation, we welcome a diverse group of participants contribute by performing certain hand actions. Please contact me if you are interested!
