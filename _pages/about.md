@@ -21,4 +21,4 @@ I am a 4th year BSc Computer Science student at the Univerisity of Edinburgh. Cu
 
 Before coming to Edinburgh, I attended Sixth Form at <a href="https://stamfordschools.org.uk" target="_blank">Stamford Schools</a> in Lincolnshire, England, from 2018 to 2020. Graduated with a Headmaster's Commendation (awarded to top 5 / 185 students).
 
-🌟 We are actively looking for a diverse group of participants in the egocentric thermal hand action data collection; if you are located in Edinburgh and interested in this project and are willing to help, please get in touch with me!
+🌟 We are actively looking for a diverse group of participants located in Edinburgh in the egocentric thermal hand action data collection; if you are interested in this project and are willing to help, please get in touch with me!
