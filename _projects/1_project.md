@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thermal Calib
-description: A modular chessboard for stereo camera calibration to between (LWIR) thermal, RGB and IR cameras.
+description: A modular chessboard for stereo camera calibration between (LWIR) thermal, RGB and IR cameras.
 img: assets/img/thermal_cali_board.png
 importance: 1
 category: MAPS Lab
