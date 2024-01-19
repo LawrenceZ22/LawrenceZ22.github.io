@@ -3,7 +3,7 @@ layout: page
 title: Head-Mounted Sensor Platform
 description: A wearable sensor data collector that simulates a Mixed reality (MR) device.
 img: assets/img/HMSP.jpeg
-importance: 4
+importance: 5
 category: MAPS Lab
 ---
 
