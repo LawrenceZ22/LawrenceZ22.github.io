@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mult-model Egocentric Hand Pose Dataset
-description: The first multi-model dataset for egocentric hand pose and action that includes RGB, IR and Thermal images.
+description: The first multi-model dataset for egocentric hand pose and action that includes RGB-D, IR and Thermal images.
 img: assets/img/multimodel_hands.png
 importance: 1
 category: MAPS Lab
@@ -20,7 +20,7 @@ We use the <a href="https://lawrencez22.github.io/projects/4_project/">Head-moun
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rgb_hands.png" title="rgb" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/rgb_hands.png" title="rgb-d" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/thermal_hands.png" title="thermal" class="img-fluid rounded z-depth-1" %}
