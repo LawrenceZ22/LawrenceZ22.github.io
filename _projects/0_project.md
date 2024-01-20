@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Mult-model Egocentric Hand Pose Dataset
-description: The first multi-model dataset for egocentric hand pose and action that includes RGB-D, IR and Thermal images.
-img: assets/img/multimodel_hands.png
+title: Mult-modal Egocentric Hand Pose Dataset
+description: The first multi-modal dataset for egocentric hand pose and action that includes RGB-D, IR and Thermal images.
+img: assets/img/multimodal_hands.png
 importance: 1
 category: MAPS Lab
 related_publications: 
@@ -10,7 +10,7 @@ related_publications:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/multimodel_hands.png" title="multi-model hands" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/multimodal_hands.png" title="multi-modal hands" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

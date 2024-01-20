@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Me working on egocentric thermal hand pose data collection, 2023</p>
+    <p>Me working on multi-modal egocentric hand pose data collection, 2023</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
