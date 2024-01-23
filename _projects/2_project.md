@@ -3,7 +3,7 @@ layout: page
 title: VisionED
 description: A wearable visual sign recogniser for visually impaired users. 
 img: assets/img/visioned_model.png
-importance: 2
+importance: 3
 category: Coursework and Personal Research
 giscus_comments: true
 ---
