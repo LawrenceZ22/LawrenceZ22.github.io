@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: BSc Hons Computer Science student @ <a href="http://web.inf.ed.ac.uk/ipab" target="_blank">School of Informatics</a>, <a href="https://www.ed.ac.uk" target="_blank">University of Edinburgh</a>
+subtitle: MSCS student @ <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a>
 
 profile:
   align: right
@@ -17,8 +17,6 @@ selected_papers: true  # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a 4th year BSc Computer Science student at the Univerisity of Edinburgh. Currently, an undergraduate student at <a href="https://maps-lab.github.io/" target="_blank">MAPS Lab</a>, supervised by <a href="https://christopherlu.github.io/" target="_blank">Dr. Chris Lu</a>. My research interests lie in egocentric computer vision, fine-grained 3D spatial interfaces and human-robot/computer interaction. I am currently working on developing a temporal transformer-based hand pose estimator with an egocentric thermal hand pose dataset.
+I am a first-year MSCS student at the Georgia Institute of Technology. My research interests lie in egocentric computer vision, fine-grained 3D spatial interfaces, and human-robot/computer interaction. I am currently working on developing a temporal transformer-based hand pose estimator with an egocentric thermal hand pose dataset.
 
-Before coming to Edinburgh, I attended Sixth Form at <a href="https://stamfordschools.org.uk" target="_blank">Stamford Schools</a> in Lincolnshire, England, from 2018 to 2020. Graduated with a Headmaster's Commendation (awarded to top 5 / 185 students).
-
-🌟 We are actively looking for a diverse group of participants located in Edinburgh in the multi-modal egocentric hand action data collection; if you are interested in this project and are willing to help, please get in touch with me!
+Before coming to Georgia Tech, I graduated from The University of Edinburgh with first-class honours in BSc Computer Science. I conducted my undergraduate research on a transformer-based egocentric thermal hand pose estimator and constructed the first multimodal egocentric hand action dataset at <a href="https://maps-lab.github.io/" target="_blank">MAPS Lab</a>, supervised by <a href="https://christopherlu.github.io/" target="_blank">Dr. Chris Lu</a>.
