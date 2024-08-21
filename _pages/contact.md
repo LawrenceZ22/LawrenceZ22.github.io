@@ -1,16 +1,7 @@
 Lawrence Yunzhou Zhu
 
-Mobile Autonomy, Perception and Sensing (MAPS) Lab
+Email: lawrencezhu@gatech.edu
 
-Institution of Perception, Action and Behaviour (IPAB)
+251 10th Street, NW, Atlanta, GA, USA
 
-School of Informatics
-
-The University of Edinburgh
-
-
-Email: Y.Zhu-115@sms.ed.ac.uk
-
-Office: G.17 Informatics Forum, 10 Crichton Street, Edinburgh
-
-Postcode: EH8 9AB
+Postcode: 30318
