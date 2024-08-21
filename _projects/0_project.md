@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mult-modal Egocentric Hand Pose Dataset
+title: Multi-modal Egocentric Hand Pose Dataset
 description: The first multi-modal dataset for egocentric hand pose and action that includes RGB-D, IR and Thermal images.
 img: assets/img/multimodal_hands.png
 importance: 1
