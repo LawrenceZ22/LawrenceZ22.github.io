@@ -1,11 +1,20 @@
-Advisor on Computer Vision (Voluntary) - <a href="http://www.drps.ed.ac.uk/20-21/dpt/cxinfr09032.htm" target="_blank">System Design Projects</a>, School of Informatics, The University of Edinburgh 01.2024 - 04.2024
+**Advisor on Computer Vision (Voluntary)**  
+[System Design Projects](http://www.drps.ed.ac.uk/20-21/dpt/cxinfr09032.htm), School of Informatics, The University of Edinburgh  
+**Duration:** January 2024 - April 2024  
+**Supervisor:** Mr. Garry Ellard  
 
-Teaching Assistant & Demonstrator - <a href="https://opencourse.inf.ed.ac.uk/mob" target="_blank">Introduction to Mobile Robotics</a>, School of Informatics, The Univerisity of Edinburgh 09.2023 - 12.2023
+---
 
-<ul>
-  <li>Delivered a lecture on robot control</li>
-  <li>Hosted Labs and Q&A sessions</li>
-  <li>Designed exam questions on PID control</li>
-</ul>
+**Teaching Assistant & Demonstrator**  
+[Introduction to Mobile Robotics](https://opencourse.inf.ed.ac.uk/mob), School of Informatics, The University of Edinburgh  
+**Duration:** September 2023 - December 2023  
+**Supervisor:** Dr. Chris Lu  
+- Delivered a lecture on robot control  
+- Hosted labs and Q&A sessions  
+- Designed exam questions on PID control  
 
-Instructor - Robotics Club, Stamford Endowed Schools 12.2018 - 01.2020
+---
+
+**Instructor**  
+Robotics Club, Stamford Endowed Schools  
+**Duration:** December 2018 - January 2020  
