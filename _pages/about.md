@@ -17,6 +17,6 @@ selected_papers: true  # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a first-year MSCS student at the Georgia Institute of Technology. My research interests lie in egocentric computer vision, fine-grained 3D spatial interfaces, cross-modality learning and human-robot/computer interaction.
+I am a first-year MSCS student at the Georgia Institute of Technology. My research interests lie in egocentric computer vision, fine-grained 3D spatial interfaces, and cross-modality domain adaptation.
 
 Before coming to Georgia Tech, I graduated from The University of Edinburgh with first-class honours in BSc Computer Science. I conducted my undergraduate research on a transformer-based egocentric thermal hand pose estimator and constructed the first multispectral, multiview hand action dataset at <a href="https://maps-lab.github.io/" target="_blank">MAPS Lab</a>, supervised by <a href="https://christopherlu.github.io/" target="_blank">Dr. Chris Lu</a>.
