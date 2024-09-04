@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /teaching/
-title: Teaching
+title: teaching
 description:
 nav: true
 nav_order: 2
