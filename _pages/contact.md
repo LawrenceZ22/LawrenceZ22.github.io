@@ -1,3 +1,10 @@
+---
+layout: page
+title: contact
+permalink: /contact/
+nav: true
+---
+
 Lawrence Yunzhou Zhu
 
 Email: lawrencezhu@gatech.edu
