@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: new_profile_pic.jpg
     content: contact.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
   # - align: left
   #   image: prof_pic.jpg
   #   content: about_einstein.md
