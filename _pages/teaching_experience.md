@@ -1,5 +1,5 @@
 **Graduate Teaching Assistant**
-CS3630 Introduction to Robotics and Perception, Dept of Computer Science, Georgia Tech
+[CS3630 Introduction to Robotics and Perception], Dept of Computer Science, Georgia Tech
 **Duration:** January 2025 - May 2025
 **Supervisor:** Prof. Sonia Chernova  
 
