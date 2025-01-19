@@ -2,6 +2,7 @@
 layout: profiles
 permalink: /people/
 description:
+title: contact
 nav: true
 nav_order: 4
 
