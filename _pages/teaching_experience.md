@@ -1,4 +1,3 @@
----
 
 **Graduate Teaching Assistant**  
 CS3630 Introduction to Robotics and Perception, Dept of Computer Science, Georgia Tech  
