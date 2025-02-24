@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://arxiv.org/abs/2403.09871" target="_blank">ThermoHands</a> is accepcted to <a href="https://sensys.acm.org/2025/" target="_blank">ACN SenSys 2025</a> 🎉🎉🎉. See you in Irvine! 
+<a href="https://arxiv.org/abs/2403.09871" target="_blank">ThermoHands</a> is accepcted to <a href="https://sensys.acm.org/2025/" target="_blank">ACM SenSys 2025</a> 🎉🎉🎉. See you in Irvine! 
