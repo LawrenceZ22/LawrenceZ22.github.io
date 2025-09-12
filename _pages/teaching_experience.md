@@ -1,5 +1,12 @@
 
 **Graduate Teaching Assistant**  
+CS4644 / 7643 Deep Learning, College of Computing, Georgia Tech  
+**Duration:** Aug 2025 - Dec 2025  
+**Supervisor:** Dr. Danfei Xu
+
+---
+
+**Graduate Teaching Assistant**  
 CS3630 Introduction to Robotics and Perception, Dept of Computer Science, Georgia Tech  
 **Duration:** January 2025 - May 2025  
 **Supervisor:** Prof. Sonia Chernova  
