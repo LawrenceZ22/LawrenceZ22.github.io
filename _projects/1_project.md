@@ -13,9 +13,6 @@ A modular calibration chessboard, designed in the style of OpenCV, is used for s
 
 Credit: The idea of having the baseboard as a whole came from Shikai Geng, School of Informatics, The Univerisity of Edinburgh.
 
-<b>Further details and the model file of this board will be included in our ECCV 2024 submission for the thermal hand pose dataset.<b>
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/thermal_calib_thermal.png" title="thermal" class="img-fluid rounded z-depth-1" %}
