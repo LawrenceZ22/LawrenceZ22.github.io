@@ -1,8 +1,16 @@
 ---
 layout: post
-date: 2024-09-25 07:59:00-0400
+date: 2024-05-22 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-<a href="https://arxiv.org/abs/2405.14014" target="_blank">RadarOCC</a> is accepcted to <a href="https://neurips.cc//" target="_blank">NeurIPS 2024</a> 🎉🎉🎉. See you in Vancouver! 
+  Our team finished runner-up in the Table Service track at the inaugural
+  <a href="https://wbcdcompetition.github.io/" target="_blank" rel="noopener noreferrer">
+    What Bimanual Teleoperation and Learning from Demonstration Can Do (WBCD)
+  </a>
+  Competition at ICRA 2025! 🎉
+  Georgia Tech covered it
+  <a href="https://research.gatech.edu/georgia-tech-team-takes-second-place-icra-robot-teleoperation-contest" target="_blank" rel="noopener noreferrer">
+    in this news post
+  </a>.
