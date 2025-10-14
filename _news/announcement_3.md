@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-  Our team finished runner-up in the Table Service track at the inaugural
+  Our team finished runner-up in the Table Service track at the 1st 
   <a href="https://wbcdcompetition.github.io/" target="_blank" rel="noopener noreferrer">
     What Bimanual Teleoperation and Learning from Demonstration Can Do (WBCD)
   </a>
