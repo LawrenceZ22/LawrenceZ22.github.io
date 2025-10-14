@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: 
-nav: true
+nav: false
 nav_order: 1
 display_categories: [MAPS Lab, Coursework and Personal Research]
 horizontal: false
