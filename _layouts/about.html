@@ -59,6 +59,30 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
+          <!-- Professional service -->
+          {% if page.service -%}
+            {%- capture service_rows -%}
+              {%- for item in page.service -%}
+                {%- if item.reviewer != blank -%}
+                <tr>
+                  <th scope="row" style="width: 20%">{{ item.year }}</th>
+                  <td>Reviewer: {{ item.reviewer }}</td>
+                </tr>
+                {%- endif -%}
+              {%- endfor -%}
+            {%- endcapture -%}
+            {%- if service_rows != blank %}
+            <h2>professional service</h2>
+            <div class="news">
+              <div class="table-responsive">
+                <table class="table table-sm table-borderless">
+                  {{ service_rows }}
+                </table>
+              </div>
+            </div>
+            {%- endif %}
+          {%- endif %}
+
           <!-- Social -->
           {%- if page.social %}
             <div class="social">

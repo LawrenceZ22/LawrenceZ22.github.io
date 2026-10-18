@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /contact/
 description:
 title: contact
 nav: true

@@ -13,4 +13,6 @@ profiles:
     image: pid_lec.png 
     content: teaching_experience.md
     image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Lecturing on robot control, Introduction to Mobile Robotics, University of Edinburgh, 2023</p>
 ---

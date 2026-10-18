@@ -1,9 +1,5 @@
----
-
 Lawrence Yunzhou Zhu
 
-Email: lawrencezhu@gatech.edu
+Email: lawrencezhu [at] gatech [dot] edu
 
-251 10th Street, NW, Atlanta, GA, USA
-
-Postcode: 30318
+CODA Building, 756 West Peachtree Street NW, Atlanta, GA 30308, USA
